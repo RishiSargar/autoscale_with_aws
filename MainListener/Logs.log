@@ -1,0 +1,16 @@
+Mar 21, 2019 1:52:27 PM com.amazonaws.samples.MainListener pick_predict_send
+INFO: MainListener and sending
+Mar 21, 2019 1:52:27 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
+Mar 21, 2019 1:52:28 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
+Mar 21, 2019 1:52:29 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
+Mar 21, 2019 1:52:30 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
+Mar 21, 2019 1:52:31 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
+Mar 21, 2019 1:52:32 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
+Mar 21, 2019 1:52:33 PM com.amazonaws.samples.SQSImplementation receive_Message
+INFO: Receiving a message from the queue
